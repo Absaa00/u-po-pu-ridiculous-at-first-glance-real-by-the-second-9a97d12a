@@ -1,0 +1,10 @@
+# u-po-pu-ridiculous r1 — local artefacts only, never committed
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.output/
+entry-draft-*.txt
+*.log
+.DS_Store
+Thumbs.db
+.venv/
